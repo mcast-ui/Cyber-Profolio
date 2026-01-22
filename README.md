@@ -1,12 +1,9 @@
 # Hello, my name is Melina Castro (>^<)
 <a href="https://www.linkedin.com/in/melina-castro-7b026726a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a 4th year student at Oregon State University, graduating June of 2026, striving to become a Security Engineer to bring safety into or every growing technnological world 🔐🌎.
+I’m a fourth-year Cybersecurity student at Oregon State University, graduating in June 2026, aspiring to become a Security Engineer and deeply interested in continually learning and expanding my knowledge to help build safer systems in our ever-evolving technological world. 🔐🌎
  
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
