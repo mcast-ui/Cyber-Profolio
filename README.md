@@ -40,7 +40,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-FFD1DC?style=for-the-badge&logo=compTIA&logoColor=white" />
  
@@ -51,4 +50,4 @@ _Loading..._
 
 ## Projects
 - Browser Sandbox for Viewing Potentially Malicious Content
-- SOC Automation Project
+- Vault Microservice
