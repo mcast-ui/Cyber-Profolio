@@ -13,11 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Containment of Malicious Malware      | <a href="https://github.com/TLop503/quicksand">Browser Sandbox</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Secure way to store, retrieve, and delete passwords | <a href="https://github.com/mcast-ui/Project-Plan">Vault Microservice</a>|
 
 ## Tools
 ### Network
